@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+header{
+    height: 60px;
+    background-color: beige;
+    margin-bottom: 40px;
+}
+
+h1, h2{
+    font-size: 40px;
+
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+li{
+    font-size: 20px;
+}
+
+
+
+table{
+    width: 30%;
+    height: 30vh;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td, th{
+    font-size: 30px;
+    border: 1px solid black;
+    padding: 10px 15px;
+}
+
+img{
+    width: 60px;
+    height: 40px;
+}
